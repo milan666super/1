@@ -1,0 +1,77 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(145, 233, 255);
+}
+.aaa{
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 100px;
+    padding: 10px;
+    text-align: center;    
+    text-decoration: none;
+    margin-bottom: 100px;
+}
+.aaaa{
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 100px;
+    padding: 10px;
+    text-align: center;    
+    text-decoration: none;
+    margin-bottom: 100px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+header{
+    text-align: center;
+    font-size: 30px;
+}
+
+.pi{
+    width: 170px;
+    height: 100px;
+    position: relative; top: 30px;
+}
+.pii{
+    width: 100px;
+    height: 100px;
+    position: relative; top: 30px;
+}
+.pip{
+    width: 100px;
+    height: 100px;
+    position: relative; top: 30px;
+}
+.agressive{
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 100px;
+    padding: 10px;
+    text-align: center;    
+    text-decoration: none;
+}
+
+.glav div{
+    margin-bottom: px;
+    background-color: ;
+}
+.b a{
+    background-color: red;
+}
+.c a{
+    background-color: yellow;
+}
+.d a{
+    background-color: green;
+}
+a:hover{
+    color: white;
+}
+a:focus{
+    background-color: blue;
+}
+footer{
+    font-size: 10px;
+    margin-top: 100px;
+    float: left;
+}
