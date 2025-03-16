@@ -1,5 +1,13 @@
 body {
     font-family: sans-serif;
+}
+.agressive{
+    background-color: rgb(193,0,3);
+}
+.neit{
+    background-color:rgb(208,189,94);
+}
+.peace{
     background-color: rgb(139,255,157);
 }
 header {
